@@ -1,0 +1,12 @@
+{
+  "name": "raspberry-gpio-shutdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nikovanmeurs/raspberry-gpio-shutdown.git",
+  "author": "Niko van Meurs <nikovanmeurs@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "shutdown-pi": "./index.js"
+  }
+}
